@@ -5,7 +5,6 @@ I am **Prabhakar Pandey** working as **Senior Software Engineer @ E2open**. I am
 ---
 
 - 🔭 I’m currently working as **Senior Software Engineer @ E2open**
-- 🌱 I’m currently learning **Angular**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
   [Twitter](https://twitter.com/prab2112)
